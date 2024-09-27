@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">Hello 👋</h2>
 
-<!--
-**xmajki/xmajki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/xmajki/">
+    <img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=The+guy+behind+the+code">
+  </a>
+  <br>
+  <a href="https://github.com/xmajki/" target="_blank">
+    <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="200" height="200">
+  </a> 
+</p>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h6 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,linux,mysql,java,python,c,cs">
+  </a>
+</p>
+
+#
